@@ -1,5 +1,7 @@
 # 🧪 Python CLI Speed Test Tool
 
+---[Screencast_20251023_215144.webm](https://github.com/user-attachments/assets/b948f919-758b-49ac-ae4d-34ab342702dc)
+
 > [!WARNING] :
 > This project only for Unix base os.
 
@@ -7,7 +9,8 @@ A lightweight, multithreaded internet download speed test written in pure Python
 
 This tool downloads a test file from a remote server using multiple threads and calculates your approximate download speed in Mbps.
 
----
+
+
 
 ## 🚀 Features
 
