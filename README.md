@@ -1,6 +1,7 @@
 # 🧪 Python CLI Speed Test Tool
 
-![Demo](https://github.com/user-attachments/assets/b948f919-758b-49ac-ae4d-34ab342702dc)
+![Demo](https://github.com/user-attachments/assets/b20d5626-cab5-4985-9fa3-4411d46ab36a)
+
 
 > [!WARNING] :
 > This project only for Unix base os.
